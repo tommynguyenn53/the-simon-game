@@ -35,4 +35,4 @@ The Simon Game is a memory game where the player must repeat a sequence of colou
 
 ## Acknowledgements
 
-This game was inspired by the classic Simon game. I would like to thank [Angela Yu](https://www.udemy.com/user/angela-yu-4/) for providing inspiration through the [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+This game was inspired by the classic Simon game. I would like to thank Angela Yu for providing inspiration through the [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
