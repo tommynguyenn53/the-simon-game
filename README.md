@@ -1,24 +1,24 @@
 # Simon Game
 
-The Simon Game is a memory game where the player must repeat a sequence of colors that are displayed on the screen. The sequence becomes progressively longer as the player successfully repeats it. The game ends if the player makes an incorrect move.
+The Simon Game is a memory game where the player must repeat a sequence of colours that are displayed on the screen. The sequence becomes progressively longer as the player successfully repeats it. The game ends if the player makes an incorrect move.
 
 ---
 
 ## Features
 
 - **Level Progression**: The sequence grows longer as the player correctly repeats it.
-- **Audio Feedback**: Each color in the sequence is accompanied by a unique sound.
-- **Flash Animation**: Each color button flashes to provide a visual cue for the sequence.
-- **Game Over**: If the player selects the wrong color, the game resets and displays a "Game Over" message.
+- **Audio Feedback**: Each colour in the sequence is accompanied by a unique sound.
+- **Flash Animation**: Each colour button flashes to provide a visual cue for the sequence.
+- **Game Over**: If the player selects the wrong colour, the game resets and displays a "Game Over" message.
 
 ---
 
 ## How to Play
 
 1. Press any key to start the game.
-2. Watch the sequence of colors that appear.
-3. Click the color buttons in the same order to repeat the sequence.
-4. The sequence will increase by one color after each round.
+2. Watch the sequence of colours that appear.
+3. Click the colour buttons in the same order to repeat the sequence.
+4. The sequence will increase by one colour after each round.
 5. If you repeat the sequence correctly, you progress to the next level.
 6. If you make an error, the game will show a "Game Over" message and reset.
 
